@@ -1,0 +1,13 @@
+{
+  "name": "gujy-preconfigured-rewire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gu091120/gujy-preconfigured-rewire.git",
+  "author": "顾杰义 <18535@etransfar.com>",
+  "license": "MIT",
+  "bin":"/src/index.js",
+  "files": ["src"],
+  "dependencies": {
+    "customize-cra": "^0.9.1"
+  }
+}
